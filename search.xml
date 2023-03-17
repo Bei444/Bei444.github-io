@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title></title>
+      <title>数据库连接池笔记</title>
       <link href="/2023/03/17/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0%E7%AC%94%E8%AE%B0/"/>
       <url>/2023/03/17/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0%E7%AC%94%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h1 id="C3P0数据库连接池"><a href="#C3P0数据库连接池" class="headerlink" title="C3P0数据库连接池"></a>C3P0数据库连接池</h1><p><strong>ComboPooledDataSource类的常用方法</strong></p><p><img src="https://cdn.staticaly.com/gh/Bei444/Picbed@main/2023/3/bj1.png" alt="image-20230317141908274"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="C3P0-数据库连接池"><a href="#C3P0-数据库连接池" class="headerlink" title="C3P0 数据库连接池"></a>C3P0 数据库连接池</h1><h3 id="ComboPooledDataSource-类的常用方法"><a href="#ComboPooledDataSource-类的常用方法" class="headerlink" title="ComboPooledDataSource 类的常用方法"></a>ComboPooledDataSource 类的常用方法</h3><p><img src="https://cdn.staticaly.com/gh/Bei444/Picbed@main/2023/3/bj1.png" alt="image-20230317141908274"></p>]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2023/03/16/Hexo/"/>
       <url>/2023/03/16/Hexo/</url>
       
-        <content type="html"><![CDATA[<h2 id="图床"><a href="#图床" class="headerlink" title="图床"></a>图床</h2><p>上传 github 代码:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"># 将更改提交</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;更新图片&quot;</span><br><span class="line"># 推送至github仓库</span><br><span class="line">git push</span><br></pre></td></tr></table></figure><p>Staticaly CDN 加速示例:<br><code>https://cdn.staticaly.com/gh/Bei444/Picbed@main/img/preview1.jpg</code></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="图床"><a href="#图床" class="headerlink" title="图床"></a>图床</h1><h2 id="上传-github-代码"><a href="#上传-github-代码" class="headerlink" title="上传 github 代码:"></a>上传 github 代码:</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 将更改提交</span></span><br><span class="line">git add .</span><br><span class="line">git commit -m <span class="string">&quot;更新图片&quot;</span></span><br><span class="line"><span class="comment"># 推送至github仓库</span></span><br><span class="line">git push</span><br></pre></td></tr></table></figure><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="Staticaly-CDN-加速示例"><a href="#Staticaly-CDN-加速示例" class="headerlink" title="Staticaly CDN 加速示例:"></a>Staticaly CDN 加速示例:</h2><p><code>https://cdn.staticaly.com/gh/Bei444/Picbed@main/img/preview1.jpg</code></p>]]></content>
       
       
       
