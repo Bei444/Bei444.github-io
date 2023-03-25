@@ -5,4 +5,11 @@
 @font-face{
     font-family: 'JNMYT';
     src: url(/font/JingNanMaiYuanTi-2.otf);
+}@font-face{
+    font-family: 'SYHT';
+    src: url(/font/STHeiti-Medium-4.ttc);
+}
+@font-face {
+    font-family: 'SYT';
+    src: url(/font/YouSheYuFeiTeJianKangTi-2.ttf);
 }
